@@ -5,6 +5,17 @@
 👋 Hello, I am sharing some of my doodles, which was originally posted on [Twitter](https://twitter.com/girlie_mac), in larger resolution.
 
 ## Algorithms
+[/algorithms](/algorithms)
+
+```
+└── 📁algorithms
+    ├── 📁png
+    │   ├── 📄algorithm101_file.png
+    │   └── 📄...
+    └── 📁tiff
+        ├── 📄algorithm101_file.tiff
+        └── 📄...
+```
 
 The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, wchich should fit in A5 paper size.
 
