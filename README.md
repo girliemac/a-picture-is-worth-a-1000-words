@@ -19,7 +19,7 @@
         └── 📄...
 ```
 
-The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, wchich should fit in A5 paper size.
+The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which should fit in A5 paper size.
 
 - Big O Notation: O(n)
 - Big O Natation: O(1) and O(n²)
