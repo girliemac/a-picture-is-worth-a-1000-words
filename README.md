@@ -1,3 +1,5 @@
+![header image](header.png)
+
 # Doodles-as-A-Service Repo
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
@@ -20,7 +22,9 @@
 The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, wchich should fit in A5 paper size.
 
 - Big O Notation: O(n)
-- BIg O Natation: O(1) and O(n²)
+- Big O Natation: O(1) and O(n²)
+- Data Structures: Array
+- Data Structures: Linked List
 
 
 ---
