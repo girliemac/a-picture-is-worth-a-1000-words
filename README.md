@@ -25,6 +25,8 @@ The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which shoul
 - Big O Natation: O(1) and O(n²)
 - Data Structures: Array
 - Data Structures: Linked List
+- Data Structures: Stack
+- Data Structures: Queue
 
 
 ---
