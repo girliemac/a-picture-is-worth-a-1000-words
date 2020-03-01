@@ -27,6 +27,8 @@ The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which shoul
 - Data Structures: Linked List
 - Data Structures: Stack
 - Data Structures: Queue
+- Data Structures: Hash Table (1/2)
+- Data Structures: Hash Table (2/2)
 
 
 ---
