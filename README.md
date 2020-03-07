@@ -21,18 +21,19 @@
 
 The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which should fit in A5 paper size.
 
-- Big O Notation: O(n)
-- Big O Natation: O(1) and O(n²)
-- Data Structures: Array
-- Data Structures: Linked List
-- Data Structures: Stack
-- Data Structures: Queue
-- Data Structures: Hash Table (1/2)
-- Data Structures: Hash Table (2/2)
+1. Big O Notation: O(n)
+2. Big O Natation: O(1) and O(n²)
+3. Data Structures: Array
+4. Data Structures: Linked List
+5. Data Structures: Stack
+6. Data Structures: Queue
+7. Data Structures: Hash Table (1/2)
+8. Data Structures: Hash Table (2/2)
+9. Data Structures: Binary Heap (1/2)
+10. Data Structures: Binary Heap (2/2)
 
 Future:
-- Data Structures: Binary Heap
-- Data Structures: Binary Search Tree
+11. Data Structures: Binary Search Tree
 
 
 ---
