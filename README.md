@@ -31,10 +31,8 @@ The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which shoul
 8. Data Structures: Hash Table (2/2)
 9. Data Structures: Binary Heap (1/2)
 10. Data Structures: Binary Heap (2/2)
-
-Future:
-11. Data Structures: Binary Search Tree
-
+11. Data Structures: Binary Search Tree (1/2)
+12. Data Structures: Binary Search Tree (2/2)
 
 ---
 
