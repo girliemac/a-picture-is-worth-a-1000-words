@@ -36,20 +36,29 @@
 ## Machine Learning for Beginners
 [/ml](/ml)
 
-These images are created for the project at Microsoft I was involved, [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
-curriculum. I keep the tiff files for printing here at my repo. Please go to the repo for the small png images.
+These images are created for the project at Microsoft I was in, [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
+curriculum. 
 
 ```
-└── 📁ml
+└── 📁algorithms
+    ├── 📁png
+    │   ├── 📄ml-history.png
+    │   └── 📄...
     └── 📁tiff
-        ├── 📄ml-history.png
-        └── 📄...
-
+        ├── 📄ml-history.tiff
+        └── 📄...
 ```
+
+1. Machine Learning history
+1. Faireness in ML
+1. Regression
+1. Reinforcement
+1. Time series
+1. ML in the real world
 
 ---
 
-## Printing
+## 🖨 Printing
 
 The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which should fit in A5 paper size.
 They are large files and stored as LFS files so you won't download the actual files when you `git clone` so please download from GitHub!
