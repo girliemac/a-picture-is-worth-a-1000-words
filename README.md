@@ -19,8 +19,6 @@
         └── 📄...
 ```
 
-The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which should fit in A5 paper size.
-
 1. Big O Notation: O(n)
 2. Big O Natation: O(1) and O(n²)
 3. Data Structures: Array
@@ -34,7 +32,27 @@ The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which shoul
 11. Data Structures: Binary Search Tree (1/2)
 12. Data Structures: Binary Search Tree (2/2)
 
+
+## Machine Learning for Beginners
+[/ml](/ml)
+
+These images are created for the project at Microsoft I was involved, [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
+curriculum. I keep the tiff files for printing here at my repo. Please go to the repo for the small png images.
+
+```
+└── 📁ml
+    └── 📁tiff
+        ├── 📄ml-history.png
+        └── 📄...
+
+```
+
 ---
+
+## Printing
+
+The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which should fit in A5 paper size.
+They are large files and stored as LFS files so you won't download the actual files when you `git clone` so please download from GitHub!
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
 International License][cc-by-sa].
