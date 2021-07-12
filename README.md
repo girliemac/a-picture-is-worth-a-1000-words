@@ -4,7 +4,7 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-👋 Hello, I am sharing some of my doodles, which was originally posted on [Twitter](https://twitter.com/girlie_mac), in larger resolution.
+👋 Hello, I am sharing some of my doodles, which was originally posted on [Twitter](https://twitter.com/girlie_mac) and [Microsoft open-source projects](https://github.com/microsoft/), in larger resolution.
 
 ## Algorithms
 [/algorithms](/algorithms)
@@ -32,15 +32,45 @@
 11. Data Structures: Binary Search Tree (1/2)
 12. Data Structures: Binary Search Tree (2/2)
 
+---
+
+## Web Development for Beginners
+[/webdev](/webdev)
+
+These images are created for the project at Microsoft I was in, [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+curriculum. 
+
+```
+└── 📁webdev
+    ├── 📁png
+    │   ├── webdev101-programmingml-history.png
+    │   └── 📄...
+    └── 📁tiff
+        ├── 📄webdev101-programming.tiff
+        └── 📄...
+```
+
+1. Introduction to Programming Languages and Tools of the Trade 
+2. Introduction to GitHub
+3. Creating Accessible Webpages
+4. JavaScript Basics: Data Types
+5. JavaScript Basics: Methods and Functions
+6. JavaScript Basics: Making Decisions
+7. JavaScript Basics: Arrays and Loops
+8. Introduction to HTML
+9. Introduction to CSS
+10. DOM Manipulation and a Closure
+
+---
 
 ## Machine Learning for Beginners
 [/ml](/ml)
 
-These images are created for the project at Microsoft I was in, [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
+These images are created for another project at Microsoft I was in, [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
 curriculum. 
 
 ```
-└── 📁algorithms
+└── 📁ml
     ├── 📁png
     │   ├── 📄ml-history.png
     │   └── 📄...
@@ -61,7 +91,7 @@ curriculum.
 ## 🖨 Printing
 
 The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which should fit in A5 paper size.
-They are large files and stored as LFS files so you won't download the actual files when you `git clone` so please download from GitHub!
+They are large files and stored as LFS files so you won't download the actual files when you `git clone` so please download manually from GitHub. 
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
 International License][cc-by-sa].
