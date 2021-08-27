@@ -1,3 +1,11 @@
+> ⚠️ Updated on August 27, 2021: 
+> 
+> GitHub warned me that my Git LFS is disabled as the bandwidth exceeded  exceeded your data plan by 150%+.
+> So now the high-res version in TIFF is temporary unavailable. I will move them somewhere when I have time. 
+> Thank you! 
+> 🙇‍♀️
+
+
 ![header image](header.png)
 
 # Doodles-as-A-Service Repo
