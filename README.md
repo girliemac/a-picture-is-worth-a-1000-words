@@ -96,10 +96,39 @@ curriculum.
 
 ---
 
+## Git Purr - Git Explained with Cats!
+[/git-purr](/git-purr)
+
+This series is my ealier work and everything is drawn in very analog way. 
+I am planning to recreate digitally someday. Git cherrypick is the only one that digitally handdrawn after I got an iPad with Pencil.
+
+```
+└── 📁git-purr
+    ├── 📄git-purr.png   
+    └── 📄...
+
+```
+
+1. git purr (git pull)
+1. git meowge (git merge & git rebase)
+1. git puss (git push)
+1. git cherry-pick & git log
+
+---
+
 ## 🖨 Printing
 
-The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which should fit in A5 paper size.
-They are large files and stored as LFS files so you won't download the actual files when you `git clone` so please download manually from GitHub. 
+> ⚠️ Updated on August 27, 2021: 
+> 
+> GitHub warned me that my Git LFS is disabled as the bandwidth exceeded  exceeded your data plan by 150%+.
+> So now the high-res version in TIFF is temporary unavailable. I will move them somewhere when I have time. 
+> Thank you! 
+> 🙇‍♀️
+
+~~The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which should fit in A5 paper size.
+They are large files and stored as LFS files so you won't download the actual files when you `git clone` so please download manually from GitHub.~~
+
+---
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
 International License][cc-by-sa].
