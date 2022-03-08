@@ -1,10 +1,3 @@
-> ⚠️ Updated on August 27, 2021: 
-> 
-> GitHub warned me that my Git LFS is disabled as the bandwidth exceeded  exceeded your data plan by 150%+.
-> So now the high-res version in TIFF is temporary unavailable. I will move them somewhere when I have time. 
-> Thank you! 
-> 🙇‍♀️
-
 
 ![header image](header.png)
 
@@ -12,7 +5,17 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-👋 Hello, I am sharing some of my doodles, which was originally posted on [Twitter](https://twitter.com/girlie_mac) and [Microsoft open-source projects](https://github.com/microsoft/), in larger resolution.
+👋 Aloha, this is where you can grab most of my tech doodles and sketchnotes.
+
+I have been posting my tech doodles on [Twitter](https://twitter.com/girlie_mac) and [Microsoft open-source projects](https://github.com/microsoft/) and I am repeatedly asked where to get the original images, especially from people who saw some of my works out of context on some social media, so I decided to put all together on one GitHub repo.
+
+Here are some of the latest giditally created handdrawn doodles, as well as photos of analog ones.
+
+All my doodles are under Creative Commons license. So please share with attributions. And I definitely don't want you to NFT them without my permission (and I won't permit you because you don't own them. They are open-sourced to be freely available for educational purpose only!)
+
+Enjoy 🌺
+
+---
 
 ## Algorithms
 [/algorithms](/algorithms)
@@ -114,6 +117,28 @@ I am planning to recreate digitally someday. Git cherrypick is the only one that
 1. git meowge (git merge & git rebase)
 1. git puss (git push)
 1. git cherry-pick & git log
+
+---
+
+## Live Sketchnotes from Conferences and Classes
+[/sketchnotes](/sketchnotes)
+
+These are some of my old sketchnotes from the past. I don't have all of my drawings but post as I find somewhere in my HD or cloud spaces.
+
+```
+└── 📁sketchnotes  
+    └── 📄...
+
+```
+---
+
+## HTTP Status Cats 🐱
+
+This is one of my first personal project to make technology into cats. 
+
+All HTTP Cats are now hosted at [HTTP.cat](https://http.cat) because the domain name is awesome.
+
+All images (except a few) are originally created by me a decade ago! Read the story on [Know Your Meme](https://knowyourmeme.com/memes/http-status-cats)
 
 ---
 
