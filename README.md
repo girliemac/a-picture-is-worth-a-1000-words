@@ -142,6 +142,20 @@ All images (except a few) are originally created by me a decade ago! Read the st
 
 ---
 
+## Slack API Zine
+
+```
+└── 📁slack  
+    └── 📄...
+
+```
+
+These are something I did while working at Slack. I created the zine (as physical printed books) to be distribute at Slack-sponcered events and conferences, but never get fully approved. Well, the world pandemic happened and we had to cancel all events anyway.
+
+Company CEO absolutely loved it though, so getting compliment from him and many other engineer coworkers was enough for me.
+
+The content is outdated as of 2022 so view them with cautions.
+
 ## 🖨 Printing
 
 > ⚠️ Updated on August 27, 2021: 
