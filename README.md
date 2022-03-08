@@ -120,6 +120,19 @@ I am planning to recreate digitally someday. Git cherrypick is the only one that
 
 ---
 
+### Microsoft Teams
+[/teams](/teams)
+
+```
+└── 📁teams
+    ├── 📄teams-toolkit-v3-doodle.png  
+    └── 📄...
+
+```
+1. What's New in Teams Toolkit v3
+
+---
+
 ## Live Sketchnotes from Conferences and Classes
 [/sketchnotes](/sketchnotes)
 
