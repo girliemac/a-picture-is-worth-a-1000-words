@@ -147,7 +147,7 @@ These are some of my old sketchnotes from the past. I don't have all of my drawi
 
 ## HTTP Status Cats 🐱
 
-This is one of my first personal project to make technology into cats. 
+This is one of my first personal project to make technology into cats. Although this is *not* doodling, I thought it was worth mentioning here!
 
 All HTTP Cats are now hosted at [HTTP.cat](https://http.cat) because the domain name is awesome.
 
@@ -156,6 +156,7 @@ All images (except a few) are originally created by me a decade ago! Read the st
 ---
 
 ## Slack API Zine
+[/slack](/slack)
 
 ```
 └── 📁slack  
@@ -163,7 +164,7 @@ All images (except a few) are originally created by me a decade ago! Read the st
 
 ```
 
-These are something I did while working at Slack. I created the zine (as physical printed books) to be distribute at Slack-sponcered events and conferences, but never get fully approved. Well, the world pandemic happened and we had to cancel all events anyway.
+These are something I did while working at Slack. I created the zine (as physical printed books) to be distribute at Slack-sponcered events and conferences, but never get fully approved. Well, the global pandemic forced us to give up all in-person events anyway.
 
 The content is outdated as of 2022 so view them with cautions.
 
