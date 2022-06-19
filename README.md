@@ -22,11 +22,11 @@ Enjoy 🌺
 
 ```
 └── 📁algorithms
-    ├── 📁png
-    │   ├── 📄algorithm101_file.png
+    ├── 📁images
+    │   ├── 📄algorithm101_file.webp
     │   └── 📄...
-    └── 📁tiff
-        ├── 📄algorithm101_file.tiff
+    └── 📁pdf
+        ├── 📄algorithm101_file.pdf
         └── 📄...
 ```
 
@@ -53,11 +53,11 @@ curriculum.
 
 ```
 └── 📁webdev
-    ├── 📁png
-    │   ├── webdev101-programmingml-history.png
+    ├── 📁images
+    │   ├── webdev101-programmingml-history.webp
     │   └── 📄...
-    └── 📁tiff
-        ├── 📄webdev101-programming.tiff
+    └── 📁pdf
+        ├── 📄webdev101-programming.pdf
         └── 📄...
 ```
 
@@ -82,11 +82,11 @@ curriculum.
 
 ```
 └── 📁ml
-    ├── 📁png
-    │   ├── 📄ml-history.png
+    ├── 📁images
+    │   ├── 📄ml-history.webp
     │   └── 📄...
-    └── 📁tiff
-        ├── 📄ml-history.tiff
+    └── 📁pdf
+        ├── 📄ml-history.pdf
         └── 📄...
 ```
 
@@ -108,7 +108,7 @@ I am planning to recreate digitally someday. Git cherrypick is the only one that
 
 ```
 └── 📁git-purr
-    ├── 📄git-purr.jpg   
+    ├── 📄git-purr.webp  
     └── 📄...
 
 ```
@@ -125,7 +125,7 @@ I am planning to recreate digitally someday. Git cherrypick is the only one that
 
 ```
 └── 📁teams
-    ├── 📄teams-toolkit-v3-doodle.png  
+    ├── 📄teams-toolkit-v3-doodle.webp  
     └── 📄...
 
 ```
@@ -170,15 +170,7 @@ The content is outdated as of 2022 so view them with cautions.
 
 ## 🖨 Printing
 
-> ⚠️ Updated on August 27, 2021: 
-> 
-> GitHub warned me that my Git LFS is disabled as the bandwidth exceeded  exceeded your data plan by 150%+.
-> So now the high-res version in TIFF is temporary unavailable. I will move them somewhere when I have time. 
-> Thank you! 
-> 🙇‍♀️
-
-~~The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which should fit in A5 paper size.
-They are large files and stored as LFS files so you won't download the actual files when you `git clone` so please download manually from GitHub.~~
+~~The *pdf* files are for printing. They should fit on A5 papers.
 
 ---
 
