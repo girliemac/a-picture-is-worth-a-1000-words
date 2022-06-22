@@ -9,7 +9,7 @@
 
 I have been posting my tech doodles on [Twitter](https://twitter.com/girlie_mac) and [Microsoft open-source projects](https://github.com/microsoft/) and I am repeatedly asked where to get the original images, especially from people who saw some of my works out of context on some social media, so I decided to put all together on one GitHub repo.
 
-Here are some of the latest giditally created handdrawn doodles, as well as photos of analog ones.
+Here are some of the latest digitally created handdrawn doodles, as well as photos of analog ones.
 
 All my doodles are under Creative Commons license. So please share with attributions. And I definitely don't want you to NFT them without my permission (and I won't permit you because you don't own them. They are open-sourced to be freely available for educational purpose only!)
 
