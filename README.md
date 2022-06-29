@@ -11,7 +11,7 @@ I have been posting my tech doodles on [Twitter](https://twitter.com/girlie_mac)
 
 Here are some of the latest digitally created handdrawn doodles, as well as photos of analog ones.
 
-All my doodles are under Creative Commons license. So please share with attributions. And I definitely don't want you to NFT them without my permission (and I won't permit you because you don't own them. They are open-sourced to be freely available for educational purpose only!)
+All my doodles are under Creative Commons license, so please share with attributions. And I definitely don't want you to NFT them without my permission (and I won't permit you because you don't own them. They are open-sourced to be freely available for educational purpose only!)
 
 Enjoy 🌺
 
