@@ -50,8 +50,8 @@ Keynote
 
 Sketchnotes from Presenting Data & Information course by Edward Tufte about fundamental design strategies for information displays.
 
-![sketchnote](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/sketchnotes/data-and-info-01.png?raw=true)
+![sketchnote](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/sketchnotes/data-and-info-01.jpg?raw=true)
 
-![sketchnote](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/sketchnotes/data-and-info-02.png?raw=true)
+![sketchnote](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/sketchnotes/data-and-info-02.jpg?raw=true)
 
 
