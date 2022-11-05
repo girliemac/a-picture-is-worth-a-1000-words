@@ -1,7 +1,7 @@
 # Git Purr - Git Explained with Cats!
 
 
-This series is my ealier work and everything is drawn in very analog way, except cherry-pick
+This series is my ealier work and everything is drawn in a very analog way, except cherry-pick
 
 ## git purr (git pull)
 

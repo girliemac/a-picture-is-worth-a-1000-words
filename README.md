@@ -9,9 +9,9 @@
 
 I have been posting my tech doodles on [Twitter](https://twitter.com/girlie_mac) and [Microsoft open-source projects](https://github.com/microsoft/) and I am repeatedly asked where to get the original images, especially from people who saw some of my works out of context on some social media, so I decided to put all together on one GitHub repo.
 
-Here are some of the latest giditally created handdrawn doodles, as well as photos of analog ones.
+Here are some of the latest digitally created handdrawn doodles, as well as photos of analog ones.
 
-All my doodles are under Creative Commons license. So please share with attributions. And I definitely don't want you to NFT them without my permission (and I won't permit you because you don't own them. They are open-sourced to be freely available for educational purpose only!)
+All my doodles are under Creative Commons license, so please share with attributions. And I definitely don't want you to NFT them without my permission (and I won't permit you because you don't own them. They are open-sourced to be freely available for educational purpose only!)
 
 Enjoy 🌺
 
@@ -164,7 +164,7 @@ All images (except a few) are originally created by me a decade ago! Read the st
 
 ```
 
-These are something I did while working at Slack. I created the zine (as physical printed books) to be distribute at Slack-sponcered events and conferences, but never get fully approved. Well, the global pandemic forced us to give up all in-person events anyway.
+These are something I did while working at Slack. I created the zine (as physical printed books) to be distribute at Slack-sponsored events and conferences, but never get fully approved. Well, the global pandemic forced us to give up all in-person events anyway.
 
 The content is outdated as of 2022 so view them with cautions.
 

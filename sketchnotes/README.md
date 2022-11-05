@@ -54,4 +54,3 @@ Sketchnotes from Presenting Data & Information course by Edward Tufte about fund
 
 ![sketchnote](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/sketchnotes/data-and-info-02.webp?raw=true)
 
-
