@@ -16,20 +16,27 @@ All my doodles are under Creative a Commons license, so please share with attrib
 Enjoy 🌺
 
 ---
+## Misc.
+[/misc](/misc)
+
+```
+└── 📁misc
+    └── 📁png
+        ├── 📄chatgpt.png
+        └── 📄...
+```
+1. ChatGPT - Added in Feb, 2023
+
 
 ## Algorithms
 [/algorithms](/algorithms)
 
 ```
 └── 📁algorithms
-    ├── 📁png
-    │   ├── 📄algorithm101_file.png
-    │   └── 📄...
-    └── 📁tiff
-        ├── 📄algorithm101_file.tiff
-        └── 📄...
+    └── 📁png
+        ├── 📄algorithm101_file.png
+        └── 📄...
 ```
-
 1. Big O Notation: O(n)
 2. Big O Natation: O(1) and O(n²)
 3. Data Structures: Array
@@ -56,9 +63,7 @@ curriculum.
     ├── 📁png
     │   ├── webdev101-programmingml-history.png
     │   └── 📄...
-    └── 📁tiff
-        ├── 📄webdev101-programming.tiff
-        └── 📄...
+
 ```
 
 1. Introduction to Programming Languages and Tools of the Trade 
@@ -85,9 +90,6 @@ curriculum.
     ├── 📁png
     │   ├── 📄ml-history.png
     │   └── 📄...
-    └── 📁tiff
-        ├── 📄ml-history.tiff
-        └── 📄...
 ```
 
 1. Machine Learning history
@@ -168,12 +170,11 @@ These are something I did while working at Slack. I created the zine (as physica
 
 The content is outdated as of 2022 so view them with cautions.
 
-## 🖨 Printing
+## 🖨 Printing / TIFF
 
 > ⚠️ Updated on August 27, 2021: 
 > 
-> GitHub warned me that my Git LFS is disabled as the bandwidth exceeded  exceeded your data plan by 150%+.
-> So now the high-res version in TIFF is temporary unavailable. I will move them somewhere when I have time. 
+> I no longer host the high-res TIFF files here because my Git LFS has been disabled as the bandwidth exceeded my data plan.
 > Thank you! 
 > 🙇‍♀️
 
