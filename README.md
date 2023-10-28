@@ -104,7 +104,7 @@ curriculum.
 ## Git Purr - Git Explained with Cats!
 [/git-purr](/git-purr)
 
-This series is my ealier work and everything is drawn in very analog way. 
+This series is my earlier work and everything is drawn in very analog way. 
 
 I am planning to recreate digitally someday. Git cherrypick is the only one that digitally handdrawn after I got an iPad with Pencil.
 
