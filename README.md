@@ -17,15 +17,20 @@ Enjoy 🌺
 
 ---
 ## Generative AI
-[/generative-ai](/misc)
+[/generative-ai](/generative-ai)
 
 ```
 └── 📁misc
     └── 📁png
         ├── 📄chatgpt.png
+        ├── 📄GenAI-doodle-youtube.png
         └── 📄...
 ```
 1. ChatGPT - Added in Feb, 2023
+2. Doodle-to-Code YouTube series on GenAI
+    - Generative AI and prompting 101
+    - Build Clippy for Teams with Azure OpenAI and Teams AI Library
+    - Use OpenAI Assistants API to build your own cooking advisor bot on Teams
 
 
 ## Algorithms

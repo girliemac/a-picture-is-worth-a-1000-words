@@ -1,4 +1,4 @@
-# Misc content
+# Generative AI - OpenAI, Microsoft Azure OpenAI, Copilot, etc.
 
 
 ```
@@ -19,7 +19,7 @@ This was originally created in Feb 2023, and updated in March 2023 when GPT-4 ca
 
 This is a set of doodles used to create the anmated doddle videos for my work at Microsoft. The focus is to walk you through how to build practical apps with Generative AI, and how they can be applied for Microsoft Teams developer platform.
 
-![YouTube teaser](raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/AssistantsAPI-doodle-youtube.gif)
+![YouTube teaser](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/AssistantsAPI-doodle-youtube.gif)
 
 You can watch all videos on this [YouTube playlist](https://www.youtube.com/playlist?list=PLWZJrkeLOrbbsuhdqW_TiOLDJq_vZbCx-).
 
@@ -39,7 +39,7 @@ Generative AI:
 
 📺 [YouTube](https://www.youtube.com/watch?v=OZ6qNiuGo1Q)
 
-![Clippy doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/TeamsAILib-doodle-youtube.png)
+![Clippy doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/TeamsAlLib-doodle-youtube.png)
 
 ### Video 3. Use OpenAI Assistants API to build your own cooking advisor bot on Teams
 
