@@ -7,15 +7,26 @@
 
 👋 Aloha, this is where you can grab most of my tech doodles and sketchnotes.
 
-I have been posting my tech doodles on [Twitter](https://twitter.com/girlie_mac) and [Microsoft open-source projects](https://github.com/microsoft/) and I am repeatedly asked where to get the original images, especially from people who saw some of my works out of context on some social media, so I decided to put all together on one GitHub repo.
+I have been posting my tech doodles on [Twitter](https://twitter.com/girlie_mac) and [Microsoft open-source projects](https://github.com/microsoft/). I am repeatedly asked where to get the original images, especially from people who saw some of my works out of context on some social media, so I decided to put them all together on one GitHub repo.
 
-Here are some of the latest digitally created handdrawn doodles, as well as photos of analog ones.
+Here are some of the latest digitally created hand-drawn doodles, as well as photos of analog ones.
 
-All my doodles are under Creative Commons license, so please share with attributions. And I definitely don't want you to NFT them without my permission (and I won't permit you because you don't own them. They are open-sourced to be freely available for educational purpose only!)
+All my doodles are under Creative a Commons license, so please share with attributions. And I definitely don't want you to NFT them without my permission (and I won't permit you because you don't own them. They are open-sourced to be freely available for educational purpose only!)
 
 Enjoy 🌺
 
 ---
+## Misc.
+[/misc](/misc)
+
+```
+└── 📁misc
+    └── 📁png
+        ├── 📄chatgpt.png
+        └── 📄...
+```
+1. ChatGPT - Added in Feb, 2023
+
 
 ## Algorithms
 [/algorithms](/algorithms)
@@ -29,7 +40,6 @@ Enjoy 🌺
         ├── 📄algorithm101_file.pdf
         └── 📄...
 ```
-
 1. Big O Notation: O(n)
 2. Big O Natation: O(1) and O(n²)
 3. Data Structures: Array
@@ -102,7 +112,7 @@ curriculum.
 ## Git Purr - Git Explained with Cats!
 [/git-purr](/git-purr)
 
-This series is my ealier work and everything is drawn in very analog way. 
+This series is my earlier work and everything is drawn in very analog way. 
 
 I am planning to recreate digitally someday. Git cherrypick is the only one that digitally handdrawn after I got an iPad with Pencil.
 
@@ -147,7 +157,7 @@ These are some of my old sketchnotes from the past. I don't have all of my drawi
 
 ## HTTP Status Cats 🐱
 
-This is one of my first personal project to make technology into cats. Although this is *not* doodling, I thought it was worth mentioning here!
+This is one of my first personal projects to make technology into cats. Although this is *not* doodling, I thought it was worth mentioning here!
 
 All HTTP Cats are now hosted at [HTTP.cat](https://http.cat) because the domain name is awesome.
 
@@ -164,13 +174,10 @@ All images (except a few) are originally created by me a decade ago! Read the st
 
 ```
 
-These are something I did while working at Slack. I created the zine (as physical printed books) to be distribute at Slack-sponsored events and conferences, but never get fully approved. Well, the global pandemic forced us to give up all in-person events anyway.
+These are something I did while working at Slack. I created the zine (as physical printed books) to be distributed at Slack-sponsored events and conferences but never got fully approved. The global pandemic forced us to give up all in-person events anyway.
 
 The content is outdated as of 2022 so view them with cautions.
 
-## 🖨 Printing
-
-~~The *pdf* files are for printing. They should fit on A5 papers.
 
 ---
 
