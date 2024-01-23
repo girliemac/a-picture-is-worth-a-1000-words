@@ -1,5 +1,5 @@
 
-![header image](header.png)
+![header image](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/header.webp)
 
 # Doodles-as-A-Service Repo
 
