@@ -5,31 +5,31 @@ These doodles are created for the project at Microsoft I was in, [Web Dev for Be
 curriculum. Please go to the [repo](https://github.com/microsoft/Web-Dev-For-Beginners) to see each image with the context!
 
 ## Intro to Programming
-![Intro to Programming](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/webdev/png/webdev101-programming.png?raw=true)
+![Intro to Programming](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/webdev/images/webdev101-programming.webp)
 
 ## Intro to Accessibility
-![Intro to Accessibility](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/webdev/png/webdev101-a11y.png?raw=true)
+![Intro to Accessibility](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/webdev/images/webdev101-a11y.webp)
 
 ## Intro to GitHub
-![Intro to GitHub](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/webdev/png/webdev101-github.png?raw=true)
+![Intro to GitHub](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/webdev/images/webdev101-github.webp)
 
 ## Intro to HTML
-![Intro to HTML](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/webdev/png/webdev101-html.png?raw=true)
+![Intro to HTML](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/webdev/images/webdev101-html.webp)
 
 ## Intro to CSS
-![Intro to CSS](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/webdev/png/webdev101-css.png?raw=true)
+![Intro to CSS](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/webdev/images/webdev101-css.webp)
 
 ## Intro to JavaScript / DOM
-![Intro to JavaScript](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/webdev/png/webdev101-js.png?raw=true)
+![Intro to JavaScript](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/webdev/images/webdev101-js.webp)
 
 ## JavaScript Basics - Data Types
-![JavaScript Data types](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/webdev/png/webdev101-js-datatypes.png?raw=true)
+![JavaScript Data types](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/webdev/images/webdev101-js-datatypes.webp)
 
 ## JavaScript Basics - Functions
-![JavaScript Functions](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/webdev/png/webdev101-js-functions.png?raw=true)
+![JavaScript Functions](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/webdev/images/webdev101-js-functions.webp)
 
 ## JavaScript Basics - Arrays
 ![JavaScript Arrays](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/webdev/png/webdev101-js-arrays.png?raw=true)
 
 ## JavaScript Basics - Decisions
-![JavaScript if else](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/webdev/png/webdev101-js-decisions.png?raw=true)
+![JavaScript if else](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/webdev/images/webdev101-js-decisions.webp)
