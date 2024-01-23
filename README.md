@@ -16,8 +16,8 @@ All my doodles are under Creative a Commons license, so please share with attrib
 Enjoy 🌺
 
 ---
-## Misc.
-[/misc](/misc)
+## Generative AI
+[/generative-ai](/misc)
 
 ```
 └── 📁misc
