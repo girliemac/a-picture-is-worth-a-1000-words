@@ -5,14 +5,14 @@ These images are created for another project at Microsoft I was in, [Machine Lea
 curriculum. Please go to the [repo](https://github.com/microsoft/ML-For-Beginners) to see how each image with the context!
 
 ## Machine Learning History
-![ML History](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/ml/png/ml-history.png?raw=true)
+![ML History](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/ml/images/ml-history.webp)
 ## Machine Learning Regression
-![ML regression](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/ml/png/ml-regression.png?raw=true)
+![ML regression](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/ml/images/ml-regression.webp)
 ## Machine Learning Reinforcement
-![ML reinforcement](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/ml/png/ml-reinforcement.png?raw=true)
+![ML reinforcement](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/ml/images/ml-reinforcement.webp)
 ## Machine Learning Time Series
-![ML time series](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/ml/png/ml-timeseries.png?raw=true)
+![ML time series](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/ml/images/ml-timeseries.webp)
 ## Machine Learning in Real World
-![ML real world](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/ml/png/ml-realworld.png?raw=true)
+![ML real world](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/ml/images/ml-realworld.webp)
 ## Machine Learning Fairness
-![ML fairness](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/ml/png/ml-fairness.png?raw=true)
+![ML fairness](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/ml/images/ml-fairness.webp)
