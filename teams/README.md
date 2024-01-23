@@ -8,7 +8,7 @@ See the blog posts with the doodles for more content! (Order: Chronological, new
 Blog: [Microsoft Teams Toolkit for VS Code is now GA 🎉](https://dev.to/azure/microsoft-teams-toolkit-for-vs-code-is-now-ga-4830)
 
 ## Teams Toolkit v3
-![Teams Toolkit v3](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/teams/teams-toolkit-v3-doodle.png?raw=true)
+![Teams Toolkit v3](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/teams/teams-toolkit-v3-doodle.webp)
 
 Blog:
 * [Developing Enterprise-Ready Microsoft Teams Apps with Teams Toolkit v3.0](https://dev.to/azure/developing-enterprise-ready-microsoft-teams-apps-with-teams-toolkit-v30-o87)
