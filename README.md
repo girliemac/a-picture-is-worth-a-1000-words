@@ -33,9 +33,12 @@ Enjoy 🌺
 
 ```
 └── 📁algorithms
-    └── 📁png
-        ├── 📄algorithm101_file.png
-        └── 📄...
+    ├── 📁images
+    │   ├── 📄algorithm101_file.webp
+    │   └── 📄...
+    └── 📁pdf
+        ├── 📄algorithm101_file.pdf
+        └── 📄...
 ```
 1. Big O Notation: O(n)
 2. Big O Natation: O(1) and O(n²)
@@ -60,10 +63,12 @@ curriculum.
 
 ```
 └── 📁webdev
-    ├── 📁png
-    │   ├── webdev101-programmingml-history.png
+    ├── 📁images
+    │   ├── webdev101-programmingml-history.webp
     │   └── 📄...
-
+    └── 📁pdf
+        ├── 📄webdev101-programming.pdf
+        └── 📄...
 ```
 
 1. Introduction to Programming Languages and Tools of the Trade 
@@ -87,9 +92,12 @@ curriculum.
 
 ```
 └── 📁ml
-    ├── 📁png
-    │   ├── 📄ml-history.png
+    ├── 📁images
+    │   ├── 📄ml-history.webp
     │   └── 📄...
+    └── 📁pdf
+        ├── 📄ml-history.pdf
+        └── 📄...
 ```
 
 1. Machine Learning history
@@ -110,7 +118,7 @@ I am planning to recreate digitally someday. Git cherrypick is the only one that
 
 ```
 └── 📁git-purr
-    ├── 📄git-purr.jpg   
+    ├── 📄git-purr.webp  
     └── 📄...
 
 ```
@@ -127,7 +135,7 @@ I am planning to recreate digitally someday. Git cherrypick is the only one that
 
 ```
 └── 📁teams
-    ├── 📄teams-toolkit-v3-doodle.png  
+    ├── 📄teams-toolkit-v3-doodle.webp  
     └── 📄...
 
 ```
@@ -170,16 +178,6 @@ These are something I did while working at Slack. I created the zine (as physica
 
 The content is outdated as of 2022 so view them with cautions.
 
-## 🖨 Printing / TIFF
-
-> ⚠️ Updated on August 27, 2021: 
-> 
-> I no longer host the high-res TIFF files here because my Git LFS has been disabled as the bandwidth exceeded my data plan.
-> Thank you! 
-> 🙇‍♀️
-
-~~The *tiff* files are for printing. I set them in 5.83 x 8.27 inches, which should fit in A5 paper size.
-They are large files and stored as LFS files so you won't download the actual files when you `git clone` so please download manually from GitHub.~~
 
 ---
 

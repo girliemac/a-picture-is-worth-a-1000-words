@@ -5,16 +5,16 @@ This series is my ealier work and everything is drawn in a very analog way, exce
 
 ## git purr (git pull)
 
-![Git pull explained with cats](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/git-purr/git-purr.jpg?raw=true)
+![Git pull explained with cats](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/git-purr/git-purr.webp?raw=true)
 
 ## git meowge (git merge & git rebase)
 
-![Git merge explained with cats](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/git-purr/git-meowge.jpg?raw=true)
+![Git merge explained with cats](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/git-purr/git-meowge.webp?raw=true)
 
 ## git puss (git push)
 
-![Git push explained with cats](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/git-purr/git-puss.jpg?raw=true)
+![Git push explained with cats](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/git-purr/git-puss.webp?raw=true)
 
 ## git cherry-pick & git log
 
-![Git cherry-pick explained with cats](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/git-purr/git-cherry-pick.jpg?raw=true)
+![Git cherry-pick explained with cats](https://github.com/girliemac/a-picture-is-worth-a-1000-words/blob/main/git-purr/git-cherry-pick.webp?raw=true)
