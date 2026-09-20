@@ -106,7 +106,7 @@ curriculum.
 ```
 
 1. Machine Learning history
-1. Faireness in ML
+1. Fairness in ML
 1. Regression
 1. Reinforcement
 1. Time series
