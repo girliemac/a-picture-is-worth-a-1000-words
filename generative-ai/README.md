@@ -27,7 +27,9 @@ This is a set of doodles used to create the anmated doddle videos for my work at
 
 ![YouTube teaser](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/AssistantsAPI-doodle-youtube.gif)
 
-You can watch all videos on this [YouTube playlist](https://www.youtube.com/playlist?list=PLWZJrkeLOrbbsuhdqW_TiOLDJq_vZbCx-).
+Watch the videos:
+- [Season 1 (2023 - 2024) playlist](https://www.youtube.com/playlist?list=PLWZJrkeLOrbbsuhdqW_TiOLDJq_vZbCx-)
+- [Season 2 (2025) playlist](https://www.youtube.com/playlist?list=PLWZJrkeLOrbYS_1Av5hiPilrtCfe7R1Eo).
 
 ### Video 1. Generative AI and prompting 101
 
@@ -43,43 +45,43 @@ Generative AI:
 
 ### Video 2. Build Clippy for Teams with Azure OpenAI and Teams AI Library
 
-📺 [YouTube](https://www.youtube.com/watch?v=OZ6qNiuGo1Q)
+📺 See the animated doodle on this video on [YouTube](https://www.youtube.com/watch?v=OZ6qNiuGo1Q)
 
 ![Clippy doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/TeamsAlLib-doodle-youtube.png)
 
 ### Video 3. Use OpenAI Assistants API to build your own cooking advisor bot on Teams
 
-📺 [YouTube](https://www.youtube.com/watch?v=OL23O25jQGE)
+📺 See the animated doodle on this video on [YouTube](https://www.youtube.com/watch?v=OL23O25jQGE)
 
 ![AssistantsAPI doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/AssistantsAPI-doodle-youtube.png)
 
 ### Video 4. Intro to Retrieval-Augmented Generation (RAG)
 
-📺 [YouTube](https://youtu.be/1k4XGgsqfTM?si=909QFuvEcSfwo7rh)
+📺 See the animated doodle on this video on [YouTube](https://youtu.be/1k4XGgsqfTM?si=909QFuvEcSfwo7rh)
 
 ![RAG doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/rag-doodle-youtube.png)
 
 ### Video 5. Bring your AI app to Teams with Azure OpenAI Studio
 
-📺 [YouTube](https://www.youtube.com/watch?v=xAXlFGSH1II)
+📺 See the animated doodle on this video on [YouTube](https://www.youtube.com/watch?v=xAXlFGSH1II)
 
 ![Azure OpenAI Studio doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/aoai-doodle-youtube.png)
 
 ### Video 6. What is Agentic AI?
 
-📺 [YouTube](https://www.youtube.com/watch?v=Oxn80TAgv7k)
+📺 See the animated doodle on this video on [YouTube](https://www.youtube.com/watch?v=Oxn80TAgv7k)
 
 ![Agentic AI doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/agenticai-doodle-youtube.png)
 ![GitHub Copilot Agent mode doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/ghcp-agent-mode-doodle-youtube.png)
 
 ### Video 7. MCP (Model Context Protocol)
 
-📺 [YouTube](https://www.youtube.com/watch?v=91_6PnC9oUU)
+📺 See the animated doodle on this video on [YouTube](https://www.youtube.com/watch?v=91_6PnC9oUU)
 
 ![Agentic AI doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/mcp-doodle-youtube.png)
 
 ### Video 8. Multimodal and Multimodel in AI
 
-📺 [YouTube](https://www.youtube.com/watch?v=zkZYeYvBy60)
+📺 See the animated doodle on this video on [YouTube](https://www.youtube.com/watch?v=zkZYeYvBy60)
 
 ![Agentic AI doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/multimodal-multimodel-doodle-youtube.png)
