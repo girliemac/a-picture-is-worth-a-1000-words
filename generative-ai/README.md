@@ -6,7 +6,13 @@
     ├── 📄chatgpt-v2.png
     ├── 📄GenAI-doodle-youtube.png
     ├── 📄TeamsAILib-doodle-youtube.png
-    └── 📄AssistantsAPI-doodle-youtube.png
+    ├── 📄AssistantsAPI-doodle-youtube.png
+    ├── 📄rag-doodle-youtube.png
+    ├── 📄aoai-doodle-youtube.png
+    ├── 📄agenticai-doodle-youtube.png
+    ├── 📄ghcp-agent-mode-doodle-youtube.png
+    ├── 📄mcp-doodle-youtube.png
+    └── 📄multimodal-multimodel-doodle-youtube.png
 ```
 
 ## 1. ChatGPT Explained
@@ -46,3 +52,34 @@ Generative AI:
 📺 [YouTube](https://www.youtube.com/watch?v=OL23O25jQGE)
 
 ![AssistantsAPI doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/AssistantsAPI-doodle-youtube.png)
+
+### Video 4. Intro to Retrieval-Augmented Generation (RAG)
+
+📺 [YouTube](https://youtu.be/1k4XGgsqfTM?si=909QFuvEcSfwo7rh)
+
+![RAG doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/rag-doodle-youtube.png)
+
+### Video 5. Bring your AI app to Teams with Azure OpenAI Studio
+
+📺 [YouTube](https://www.youtube.com/watch?v=xAXlFGSH1II)
+
+![Azure OpenAI Studio doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/aoai-doodle-youtube.png)
+
+### Video 6. What is Agentic AI?
+
+📺 [YouTube](https://www.youtube.com/watch?v=Oxn80TAgv7k)
+
+![Agentic AI doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/agenticai-doodle-youtube.png)
+![GitHub Copilot Agent mode doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/ghcp-agent-mode-doodle-youtube.png)
+
+### Video 7. MCP (Model Context Protocol)
+
+📺 [YouTube](https://www.youtube.com/watch?v=91_6PnC9oUU)
+
+![Agentic AI doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/mcp-doodle-youtube.png)
+
+### Video 8. Multimodal and Multimodel in AI
+
+📺 [YouTube](https://www.youtube.com/watch?v=zkZYeYvBy60)
+
+![Agentic AI doodle](https://raw.githubusercontent.com/girliemac/a-picture-is-worth-a-1000-words/main/generative-ai/images/multimodal-multimodel-doodle-youtube.png)

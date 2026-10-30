@@ -16,7 +16,7 @@ All my doodles are under Creative a Commons license, so please share with attrib
 Enjoy 🌺
 
 ---
-## Generative AI
+## Generative AI & Agents
 [/generative-ai](/generative-ai)
 
 ```
@@ -28,9 +28,15 @@ Enjoy 🌺
 ```
 1. ChatGPT - Added in Feb, 2023
 2. Doodle-to-Code YouTube series on GenAI
-    - Generative AI and prompting 101
-    - Build Clippy for Teams with Azure OpenAI and Teams AI Library
-    - Use OpenAI Assistants API to build your own cooking advisor bot on Teams
+    1. Generative AI and prompting 101
+    1. Personalize AI chatbot using prompts
+    1. Use OpenAI Assistants API
+    1. Intro to RAG
+    1. Deploy to a Teams app using Azure OpenAI Studio 
+3. Doodle-to-Code YouTube series #2 on Agents
+    1. Agentic AI and GitHub Copilot Agent Mode
+    1. Intro to MCP
+    1. Multimodal and Multimodel in AI
 
 
 ## Algorithms
